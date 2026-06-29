@@ -1,8 +1,4 @@
-std_no,room,gender,"math
-(100)","science
-(100)","thai
-(100)","english
-(100)",Program
+std_no,room,gender,math,science,thai,english,program
 std001,1,M,38,37,49,65,EP
 std002,1,M,53,55,77,53,EP
 std003,1,M,51,46,73,40,EP
